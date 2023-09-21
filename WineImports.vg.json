@@ -24,7 +24,7 @@
                     "lookup": "properties.NAME", 
                     "from": {
                         "data": {
-                            "url": "imports2022.csv"
+                            "url": "https://raw.githubusercontent.com/Elee0068/FIT3179/main/imports2022.csv"
                         },
                         "key": "IMPORTER",
                         "fields": ["WINE IMPORTS"]
