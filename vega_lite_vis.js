@@ -1,4 +1,4 @@
-var vg_1 = "chloropleth.vg.json"; 
+var vg_1 = "WineImports.vg.json"; 
 
 vegaEmbed("#map", vg_1).then(function(result) {
     // Access the Vega view instance 
